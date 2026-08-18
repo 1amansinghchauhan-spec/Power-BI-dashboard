@@ -1,2 +1,1 @@
-# Power-BI-dashboard
-Power bi projects 
+Interactive Power BI dashboard for data-driven insights and business analytics. Includes data cleaning, transformation, interactive visualizations, KPIs, filters, and dynamic reports to identify trends, patterns, and actionable insights. 
